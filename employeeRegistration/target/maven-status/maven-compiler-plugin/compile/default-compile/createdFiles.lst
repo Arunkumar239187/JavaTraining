@@ -1,0 +1,5 @@
+employeeRegistration\repository\EmployeeRepository.class
+employeeRegistration\controller\EmployeeController.class
+employeeRegistration\service\EmployeeService.class
+employeeRegistration\model\Employee.class
+employeeRegistration\EmployeeRegistrationApplication.class
